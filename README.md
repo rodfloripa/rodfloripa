@@ -15,3 +15,32 @@
 
 Os projetos estão numerados, os primeiros são os mais simples
 e os últimos os mais complexos.
+
+PROJETOS
+
+P11- Manutenção Preditiva de Aerogeradores da Siemens Wind(Python)
+
+P12- Melhoria em um Sistema de Recomendação de Filmes com PySpark e
+implantação no AWS
+
+P13- Implantação de Algoritmo Simples de NLP com Docker
+
+P14- Resolução de uma prova para o cargo de Data Analyst
+
+P15- Previsão de palavras usando Regra de Bayes
+
+P16- Otimização com MCMC: menor caminho
+
+P17- Otimização com MCMC: temperatura e energia
+
+P18- Conjunto de dados extremamente desbalanceado
+
+P19- Otimização de Logística de Armazéns com CVXPY
+
+P20- Otimização de Rotas de Veículos com CVXPY
+
+P21- Preciﬁcação dinâmica com Bandits.
+
+P22- Analíse de Causalidade com dados da Embrapa
+
+P23- RAG usando LLM
