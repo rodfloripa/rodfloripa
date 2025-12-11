@@ -18,7 +18,7 @@ e os últimos os mais complexos.
 
 PROJETOS
 
-[Macroeconometria cmo R](https://github.com/rodfloripa/Macroeconometria_com_R)
+[Macroeconometria com R](https://github.com/rodfloripa/Macroeconometria_com_R)
 
 [P11- Manutenção Preditiva de Aerogeradores da Siemens Wind(Python)](https://github.com/rodfloripa/Projeto11)
 
