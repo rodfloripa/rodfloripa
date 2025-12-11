@@ -20,6 +20,8 @@ PROJETOS
 
 [Macroeconometria com R](https://github.com/rodfloripa/Macroeconometria_com_R)
 
+[TCC- Especializaçao em Finanças](https://github.com/rodfloripa/Financing_wind_power_projects)
+
 [Implementaçao do artigo: Solving the apparent diversity-accuracy dilemma of recommender systems](https://github.com/rodfloripa/Heats_Probs_Recommender)
 
 [P11- Manutenção Preditiva de Aerogeradores da Siemens Wind(Python)](https://github.com/rodfloripa/Projeto11)
