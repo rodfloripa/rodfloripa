@@ -20,6 +20,8 @@ PROJETOS
 
 [Macroeconometria com R](https://github.com/rodfloripa/Macroeconometria_com_R)
 
+Impplementaçao do artigo: Solving the apparent diversity-accuracy dilemma of recommender systems
+
 [P11- Manutenção Preditiva de Aerogeradores da Siemens Wind(Python)](https://github.com/rodfloripa/Projeto11)
 
 [P12- Melhoria em um Sistema de Recomendação de Filmes com PySpark e
