@@ -33,7 +33,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P17- Otimização com MCMC: temperatura e energia](https://github.com/rodfloripa/Projeto17)
 
-[P18- Conjunto de dados extremamente desbalanceado](https://github.com/rodfloripa/Projeto18)
+P18- Conjunto de dados extremamente desbalanceado
 
 [P19- Otimização de Logística de Armazéns com CVXPY](https://github.com/rodfloripa/Projeto19)
 
