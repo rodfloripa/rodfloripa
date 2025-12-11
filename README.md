@@ -18,29 +18,29 @@ e os últimos os mais complexos.
 
 PROJETOS
 
-P11- Manutenção Preditiva de Aerogeradores da Siemens Wind(Python)
+[P11- Manutenção Preditiva de Aerogeradores da Siemens Wind(Python)](https://github.com/rodfloripa/Projeto11)
 
-P12- Melhoria em um Sistema de Recomendação de Filmes com PySpark e
-implantação no AWS
+[P12- Melhoria em um Sistema de Recomendação de Filmes com PySpark e
+implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
-P13- Implantação de Algoritmo Simples de NLP com Docker
+[P13- Implantação de Algoritmo Simples de NLP com Docker](https://github.com/rodfloripa/Projeto13)
 
-P14- Resolução de uma prova para o cargo de Data Analyst
+[P14- Resolução de uma prova para o cargo de Data Analyst](https://github.com/rodfloripa/Projeto14)
 
-P15- Previsão de palavras usando Regra de Bayes
+[P15- Previsão de palavras usando Regra de Bayes](https://github.com/rodfloripa/Projeto15)
 
-P16- Otimização com MCMC: menor caminho
+[P16- Otimização com MCMC: menor caminho](https://github.com/rodfloripa/Projeto16)
 
-P17- Otimização com MCMC: temperatura e energia
+[P17- Otimização com MCMC: temperatura e energia](https://github.com/rodfloripa/Projeto17)
 
-P18- Conjunto de dados extremamente desbalanceado
+[P18- Conjunto de dados extremamente desbalanceado](https://github.com/rodfloripa/Projeto18)
 
-P19- Otimização de Logística de Armazéns com CVXPY
+[P19- Otimização de Logística de Armazéns com CVXPY](https://github.com/rodfloripa/Projeto19)
 
-P20- Otimização de Rotas de Veículos com CVXPY
+[P20- Otimização de Rotas de Veículos com CVXPY](https://github.com/rodfloripa/Projeto20)
 
-P21- Preciﬁcação dinâmica com Bandits.
+[P21- Preciﬁcação dinâmica com Bandits.](https://github.com/rodfloripa/Projeto21)
 
-P22- Analíse de Causalidade com dados da Embrapa
+[P22- Analíse de Causalidade com dados da Embrapa](https://github.com/rodfloripa/Projeto22)
 
-P23- RAG usando LLM
+[P23- RAG usando LLM](https://github.com/rodfloripa/Projeto23)
