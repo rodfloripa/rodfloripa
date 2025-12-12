@@ -51,4 +51,4 @@ P18- Conjunto de dados extremamente desbalanceado
 
 [P23- RAG usando LLM](https://github.com/rodfloripa/Projeto23)
 
-[P24- Deteccao de Fraude(CRISP)](https://github.com/rodfloripa/Projeto24)
+[P24- Detecção de Fraude(CRISP)](https://github.com/rodfloripa/Projeto24)
