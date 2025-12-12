@@ -50,3 +50,5 @@ P18- Conjunto de dados extremamente desbalanceado
 [P22- Analíse de Causalidade com dados da Embrapa](https://github.com/rodfloripa/Projeto22)
 
 [P23- RAG usando LLM](https://github.com/rodfloripa/Projeto23)
+
+[P24- Deteccao de Fraude(CRISP)](https://github.com/rodfloripa/Projeto24)
