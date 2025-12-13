@@ -13,8 +13,7 @@
 
  Ferramentas:![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyPI](https://img.shields.io/badge/-PyPI-3775A9?&logo=PyPI&logoColor=FFFFFF)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) ![Jupyter](https://img.shields.io/badge/-Jupyter-FCC624?&logo=Jupyter&logoColor)
 
-Os projetos estão numerados, os primeiros são os mais simples
-e os últimos os mais complexos.
+
 
 PROJETOS
 
