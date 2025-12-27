@@ -2,8 +2,7 @@
  🏾 Sobre mim : 
 -  De Florianópolis, Santa Catarina, Brasil.
 - Engenheiro Eletricista.
-- Sou extremamente curioso sobre ciência, desde criança.
-- Adoro cinema!! 
+
 
 
 
