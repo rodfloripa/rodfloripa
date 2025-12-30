@@ -22,12 +22,12 @@ PROJETOS - Existem dois tipos: projetos de cursos e projetos que eu criei
 
 [Implementaçao do artigo: Solving the apparent diversity-accuracy dilemma of recommender systems](https://github.com/rodfloripa/Heats_Probs_Recommender)
 
-[P11- Manutenção Preditiva de Aerogeradores da Siemens Wind(Python)](https://github.com/rodfloripa/Projeto11)
+[P11curso- Manutenção Preditiva de Aerogeradores da Siemens Wind(Python)](https://github.com/rodfloripa/Projeto11)
 
-[P12- Melhoria em um Sistema de Recomendação de Filmes com PySpark e
+[P12curso- Melhoria em um Sistema de Recomendação de Filmes com PySpark e
 implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
-[P13- Implantação de Algoritmo Simples de NLP com Docker](https://github.com/rodfloripa/Projeto13)
+[P13curso- Implantação de Algoritmo Simples de NLP com Docker](https://github.com/rodfloripa/Projeto13)
 
 [P14- Resolução de uma prova para o cargo de Data Analyst](https://github.com/rodfloripa/Projeto14)
 
@@ -37,11 +37,11 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P17- Otimização com MCMC: temperatura e energia](https://github.com/rodfloripa/Projeto17)
 
-[P18- Conjunto de dados extremamente desbalanceado](https://github.com/rodfloripa/Projeto18)
+[P18curso- Conjunto de dados extremamente desbalanceado](https://github.com/rodfloripa/Projeto18)
 
-[P19- Otimização de Logística de Armazéns com CVXPY](https://github.com/rodfloripa/Projeto19)
+[P19curso- Otimização de Logística de Armazéns com CVXPY](https://github.com/rodfloripa/Projeto19)
 
-[P20- Otimização de Rotas de Veículos com CVXPY](https://github.com/rodfloripa/Projeto20)
+[P20curso- Otimização de Rotas de Veículos com CVXPY](https://github.com/rodfloripa/Projeto20)
 
 [P21- Preciﬁcação dinâmica com Bandits.](https://github.com/rodfloripa/Projeto21)
 
