@@ -22,7 +22,7 @@ PROJETOS - Existem dois tipos: projetos de cursos e projetos que eu criei
 
 [Implementaçao do artigo: Solving the apparent diversity-accuracy dilemma of recommender systems](https://github.com/rodfloripa/Heats_Probs_Recommender)
 
-[P11curso- Manutenção Preditiva de Aerogeradores da Siemens Wind(Python)](https://github.com/rodfloripa/Projeto11)
+[P11- Manutenção Preditiva de Aerogeradores da Siemens Wind(Python)](https://github.com/rodfloripa/Projeto11)
 
 [P12curso- Melhoria em um Sistema de Recomendação de Filmes com PySpark e
 implantação no AWS](https://github.com/rodfloripa/Projeto12)
