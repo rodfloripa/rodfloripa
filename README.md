@@ -15,6 +15,7 @@
 
 
 PROJETOS - Existem dois tipos: 
+
 projetos de cursos e projetos que eu criei
 
 [Macroeconometria com R](https://github.com/rodfloripa/Macroeconometria_com_R)
