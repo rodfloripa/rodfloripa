@@ -54,3 +54,5 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 [P24- Detecção de Fraude(CRISP)](https://github.com/rodfloripa/Projeto24)
 
 [P25- Aprenda sobre doenças com RodMed](https://github.com/rodfloripa/Projeto25)
+
+
