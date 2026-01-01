@@ -55,4 +55,6 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P25- Aprenda sobre doenças com RodMed](https://github.com/rodfloripa/Projeto25)
 
+[P26- Um clone do Databricks Genie](https://github.com/rodfloripa/Projeto26)
+
 
