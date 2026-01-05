@@ -57,4 +57,6 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P26- Um clone do Databricks Genie](https://github.com/rodfloripa/Projeto26)
 
+[P27- RAG Hibrida](https://github.com/rodfloripa/Projeto27)
+
 
