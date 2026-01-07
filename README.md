@@ -59,6 +59,6 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P27- RAG Hibrida](https://github.com/rodfloripa/Projeto27)
 
-[P28- LLM nào resolve tudo: Usando Cadeia de Markov para gerar musica](https://github.com/rodfloripa/Projeto28)
+[P28- LLM não resolve tudo: Usando Cadeia de Markov para gerar musica](https://github.com/rodfloripa/Projeto28)
 
 
