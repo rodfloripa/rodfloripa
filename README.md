@@ -59,6 +59,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P27- RAG Hibrida](https://github.com/rodfloripa/Projeto27)
 
+[P28- Gerando música com Transformers](https://github.com/rodfloripa/Projeto28)
+
 
 
 
