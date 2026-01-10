@@ -61,7 +61,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P28- Gerando música com Transformers](https://github.com/rodfloripa/Projeto28)
 
-[P29- SmoteBoost para dados desbalanceados](https://github.com/rodfloripa/Projeto29)
+[P29- Smote-Bagging para dados desbalanceados](https://github.com/rodfloripa/Projeto29)
 
 
 
