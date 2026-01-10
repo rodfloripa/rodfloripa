@@ -49,7 +49,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P22- Analíse de Causalidade com dados da Embrapa](https://github.com/rodfloripa/Projeto22)
 
-[P23- RAG usando LLM](https://github.com/rodfloripa/Projeto23)
+[P23- RAG usando LLM(Desafio C&A)](https://github.com/rodfloripa/Projeto23)
 
 [P24- Detecção de Fraude(CRISP)](https://github.com/rodfloripa/Projeto24)
 
