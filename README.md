@@ -63,6 +63,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P29- Smote-Bagging para dados desbalanceados](https://github.com/rodfloripa/Projeto29)
 
+[P30- RAG Econômica](https://github.com/rodfloripa/Projeto30)
+
 
 
 
