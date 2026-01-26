@@ -65,6 +65,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P30- RAG Econômica](https://github.com/rodfloripa/Projeto30)
 
+[P31- Avaliando RAG com Ragas](https://github.com/rodfloripa/Projeto31)
+
 
 
 
