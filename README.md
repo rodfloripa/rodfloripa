@@ -67,6 +67,10 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P31- Avaliando RAG com Ragas](https://github.com/rodfloripa/Projeto31)
 
+Outros Repositórios Meus
+
+[DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
+
 
 
 
