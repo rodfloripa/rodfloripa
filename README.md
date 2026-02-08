@@ -73,7 +73,7 @@ Outros Repositórios Meus
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
 
-[Deploy no Sagemaker pela cli](https://github.com/rodfloripa/Deploy-no-Sagemaker-cli-)
+
 
 
 
