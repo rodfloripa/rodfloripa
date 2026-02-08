@@ -67,6 +67,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P31- Avaliando RAG com Ragas](https://github.com/rodfloripa/Projeto31)
 
+[P32- LLM em monolito vs LLM em microservico](https://github.com/rodfloripa/Projeto32)
+
 Outros Repositórios Meus
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
