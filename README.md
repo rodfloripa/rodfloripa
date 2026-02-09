@@ -73,6 +73,8 @@ Outros Repositórios Meus
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
 
+[Significancia estatistica com bootstrap)](https://github.com/rodfloripa/Significancia_estatistica_com_bootstrap)
+
 
 
 
