@@ -77,6 +77,8 @@ Outros Repositórios Meus
 
 [Transformer com Engram](https://github.com/rodfloripa/Transformer_com_ngram)
 
+[Séries Temporais Anômalas de Vendas](https://github.com/rodfloripa/Series_Temporais_Anomalas)
+
 
 
 
