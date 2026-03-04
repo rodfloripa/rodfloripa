@@ -80,6 +80,8 @@ Outros Repositórios Meus
 
 [Significancia estatistica com Bootstrap](https://github.com/rodfloripa/Significancia_estatistica_com_bootstrap)
 
+Veja mais Repositórios em 'Pinned' abaixo
+
 
 
 
