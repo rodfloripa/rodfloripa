@@ -69,15 +69,17 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P32- LLM em monolito vs LLM em microservico](https://github.com/rodfloripa/Projeto32)
 
+[P33- Transformer com Engram](https://github.com/rodfloripa/Transformer_com_ngram)
+
+[P34- Séries Temporais Anômalas de Vendas](https://github.com/rodfloripa/Series_Temporais_Anomalas)
+
+
 Outros Repositórios Meus
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
 
 [Significancia estatistica com Bootstrap](https://github.com/rodfloripa/Significancia_estatistica_com_bootstrap)
 
-[Transformer com Engram](https://github.com/rodfloripa/Transformer_com_ngram)
-
-[Séries Temporais Anômalas de Vendas](https://github.com/rodfloripa/Series_Temporais_Anomalas)
 
 
 
