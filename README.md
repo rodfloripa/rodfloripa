@@ -80,7 +80,7 @@ Outros Repositórios Meus
 
 [Significancia estatistica com Bootstrap](https://github.com/rodfloripa/Significancia_estatistica_com_bootstrap)
 
-[Otimizacao de Cobertura Celular](https://github.com/rodfloripa/Otimizacao_de_Cobertura_Celular)
+[Otimizacao de Cobertura Celular com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Cobertura_Celular)
 
 Veja mais Repositórios em 'Pinned' abaixo
 
