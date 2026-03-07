@@ -84,6 +84,8 @@ Outros Repositórios Meus
 
 [Otimizacao de Antenas com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antenas)
 
+[Otimizacao de Antenas com CVXPY](https://github.com/rodfloripa/Despacho_Economico)
+
 Veja mais Repositórios em 'Pinned' abaixo
 
 
