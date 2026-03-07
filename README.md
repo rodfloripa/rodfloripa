@@ -86,7 +86,7 @@ Outros Repositórios Meus
 
 [Despacho Econômico com CVXPY](https://github.com/rodfloripa/Despacho_Economico)
 
-[Otimização Rádiotelescópio com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antena_Parabolica)
+[Otimização de Rádiotelescópio com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antena_Parabolica)
 
 Veja mais Repositórios em 'Pinned' abaixo
 
