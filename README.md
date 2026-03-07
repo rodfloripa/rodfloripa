@@ -82,6 +82,8 @@ Outros Repositórios Meus
 
 [Otimizacao de Cobertura Celular com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Cobertura_Celular)
 
+[Otimizacao de Antenas com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antenas)
+
 Veja mais Repositórios em 'Pinned' abaixo
 
 
