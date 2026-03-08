@@ -82,7 +82,7 @@ Outros Repositórios Meus
 
 [Otimizacao de Cobertura Celular com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Cobertura_Celular)
 
-[Detecção de anomalias em dados de sensores]
+[Detecção de anomalias em dados de sensores](https://github.com/rodfloripa/Deteccao_de_Anomalias)
 
 [Otimizacao de Antenas com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antenas)
 
