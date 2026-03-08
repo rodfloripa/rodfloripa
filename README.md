@@ -82,13 +82,14 @@ Outros Repositórios Meus
 
 [Otimizacao de Cobertura Celular com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Cobertura_Celular)
 
+[Detecção de anomalias em dados de sensores]
+
 [Otimizacao de Antenas com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antenas)
 
 [Despacho Econômico com CVXPY](https://github.com/rodfloripa/Despacho_Economico)
 
 [Otimização de Rádiotelescópio com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antena_Parabolica)
 
-[Detecção de anomalias em dados de sensores]
 
 Veja mais Repositórios em 'Pinned' abaixo
 
