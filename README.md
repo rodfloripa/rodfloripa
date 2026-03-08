@@ -88,7 +88,7 @@ Outros Repositórios Meus
 
 [Otimização de Rádiotelescópio com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antena_Parabolica)
 
-[Detecção de anomalias em sensores]
+[Detecção de anomalias em dados de sensores]
 
 Veja mais Repositórios em 'Pinned' abaixo
 
