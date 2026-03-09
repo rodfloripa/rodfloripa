@@ -92,6 +92,7 @@ Outros Repositórios Meus
 
 [UMAP do jeito certo](https://github.com/rodfloripa/UMAP)
 
+[Criando Carteiras de Investimento]
 
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
