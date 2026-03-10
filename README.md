@@ -74,7 +74,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 [P34- Séries Temporais Anômalas de Vendas](https://github.com/rodfloripa/Series_Temporais_Anomalas)
 
 
-Outros Repositórios Meus
+Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
 
