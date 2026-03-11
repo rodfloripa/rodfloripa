@@ -73,7 +73,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P34- Séries Temporais Anômalas de Vendas](https://github.com/rodfloripa/Series_Temporais_Anomalas)
 
-[P35- Artigo: "Entendendo a Dinâmica do Ajuste Fino de LLMs"]
+[P35- Artigo: "Entendendo a Dinâmica do Ajuste Fino de LLMs"](https://github.com/rodfloripa/Projeto35)
 
 
 Pequenos Projetos
