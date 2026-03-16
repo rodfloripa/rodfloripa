@@ -96,6 +96,8 @@ Pequenos Projetos
 
 [Criando Carteiras de Investimento](https://github.com/rodfloripa/Carteiras_de_Acoes)
 
+[Análise de Sobrevivência: Churn de Clientes](https://github.com/rodfloripa/Analise_de_Sobrevivencia)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
