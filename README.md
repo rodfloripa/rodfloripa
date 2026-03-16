@@ -75,8 +75,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P35- Artigo: "Entendendo a Dinâmica do Ajuste Fino de LLMs"](https://github.com/rodfloripa/Projeto35)
 
-[P36- Artigo: "CRoC: Contraste de Refatoração de Contexto para Grafos
-Detecção de Anomalias com Supervisão Limitada"](https://github.com/rodfloripa/Projeto36)
+[P36- Artigo: "CRoC: Contraste de Refatoração de Contexto para Detecção de Anomalias com Supervisão Limitada em Grafos
+"](https://github.com/rodfloripa/Projeto36)
 
 
 Pequenos Projetos
