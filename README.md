@@ -22,7 +22,7 @@ projetos de cursos e projetos que eu criei
 
 [TCC- Especializaçao em Finanças](https://github.com/rodfloripa/Financing_wind_power_projects)
 
-[Implementaçao do artigo: Solving the apparent diversity-accuracy dilemma of recommender systems](https://github.com/rodfloripa/Heats_Probs_Recommender)
+[Implementaçao do artigo: Resolvendo o aparente dilema diversidade-precisão dos sistemas de recomendação](https://github.com/rodfloripa/Heats_Probs_Recommender)
 
 [P11- Manutenção Preditiva de Aerogeradores da Siemens Wind](https://github.com/rodfloripa/Projeto11)
 
