@@ -78,6 +78,9 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 [P36- Artigo: "CRoC: Contraste de Refatoração de Contexto para Detecção de Anomalias com Supervisão Limitada em Grafos
 "](https://github.com/rodfloripa/Projeto36)
 
+[P37- Artigo: "Previsão de vibração com transformadores para o avanço da segurança ferroviária e da manutenção 4.0
+"](https://github.com/rodfloripa/Projeto37)
+
 
 Pequenos Projetos
 
