@@ -81,6 +81,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 [P37- Artigo: "Previsão de vibração com transformadores para o avanço da segurança ferroviária e da manutenção 4.0
 "](https://github.com/rodfloripa/Projeto37)
 
+[P38- Prevendo a venda de 1700 produtos](https://github.com/rodfloripa/Projeto38)
 
 Pequenos Projetos
 
