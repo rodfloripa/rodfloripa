@@ -95,7 +95,7 @@ Pequenos Projetos
 
 [Otimizacao de Antenas com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antenas)
 
-[Despacho Econômico com CVXPY](https://github.com/rodfloripa/Despacho_Economico)
+[Despacho Hidrotermico com CVXPY](https://github.com/rodfloripa/Despacho_Economico)
 
 [Otimização de Rádiotelescópio com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antena_Parabolica)
 
