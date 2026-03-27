@@ -105,6 +105,8 @@ Pequenos Projetos
 
 [Análise de Sobrevivência: Churn de Clientes](https://github.com/rodfloripa/Analise_de_Sobrevivencia)
 
+[Domo de Ferro com CVXPY](https://github.com/rodfloripa/Domo_de_Ferro)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
