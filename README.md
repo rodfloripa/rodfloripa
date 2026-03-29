@@ -107,6 +107,9 @@ Pequenos Projetos
 
 [Domo de Ferro com CVXPY](https://github.com/rodfloripa/Domo_de_Ferro)
 
+[Criando boas variáveis para prever seriestemporais]
+(https://github.com/rodfloripa/Criando_variaveis_em_series_temp)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
