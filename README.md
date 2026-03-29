@@ -83,6 +83,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P38- Prevendo a venda de 1700 produtos](https://github.com/rodfloripa/Projeto38)
 
+[P39 - Previsão de risco para bancos](https://github.com/rodfloripa/Projeto39)
+
 Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
