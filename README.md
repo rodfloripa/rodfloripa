@@ -85,6 +85,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P39 - Previsão de risco para bancos](https://github.com/rodfloripa/Projeto39)
 
+[P40 - Desafio Kaggle de receitas](https://github.com/rodfloripa/Projeto40)
+
 Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
