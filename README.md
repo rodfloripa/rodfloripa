@@ -87,6 +87,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P40 - Desafio Kaggle de receitas](https://github.com/rodfloripa/Projeto40)
 
+[P41 - Previsão em tempo real com Kafka](https://github.com/rodfloripa/Projeto41)
+
 Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
