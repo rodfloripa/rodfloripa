@@ -91,6 +91,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P42 - Artigo: "Um modelo de aprendizado profundo aprimorado para agrupamento baseado em incorporações de palavras para grandes conjuntos de dados de texto"](https://github.com/rodfloripa/Projeto42)
 
+[P43 - AlphaRAG - Alémda buscavetorial](https://github.com/rodfloripa/Projeto43)
+
 Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
