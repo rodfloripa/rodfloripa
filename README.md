@@ -93,6 +93,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P43 - AlphaRAG - Além da busca vetorial](https://github.com/rodfloripa/Projeto43)
 
+[P44 - RAG do jeito certo](https://github.com/rodfloripa/Projeto44)
+
 Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
