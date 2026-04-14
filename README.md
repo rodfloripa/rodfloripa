@@ -93,7 +93,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P43 - AlphaRAG - Além da busca vetorial](https://github.com/rodfloripa/Projeto43)
 
-[P44 - RAG Determinista](https://github.com/rodfloripa/Projeto44)
+[P44 - RAG semantica+grafo usando Neo4j](https://github.com/rodfloripa/Projeto44)
 
 Pequenos Projetos
 
