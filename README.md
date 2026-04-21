@@ -95,6 +95,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P44 - RAG semantica+grafo usando Neo4j](https://github.com/rodfloripa/Projeto44)
 
+[P45 - Melhorando o Projeto44](https://github.com/rodfloripa/Projeto45)
+
 Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
