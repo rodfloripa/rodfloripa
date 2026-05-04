@@ -97,6 +97,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P45 - Melhorando o Projeto44](https://github.com/rodfloripa/Projeto45)
 
+[P46 - eVTOLs Resgatando Pessoas com Aprendizado por Reforço](https://github.com/rodfloripa/Projeto46)
+
 Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
