@@ -99,6 +99,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P46 - eVTOLs Resgatando Pessoas com Aprendizado por Reforço](https://github.com/rodfloripa/Projeto46)
 
+[P47 - Experimento Fatorial usado em ML](https://github.com/rodfloripa/Projeto47)
+
 Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
