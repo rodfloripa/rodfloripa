@@ -101,6 +101,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P47 - Experimento Fatorial usado em ML](https://github.com/rodfloripa/Projeto47)
 
+[P48 - Artigo: Memória online eficiente para grandes modelos de linguagem](https://github.com/rodfloripa/Projeto48)
 Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
