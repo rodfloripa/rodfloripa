@@ -103,6 +103,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P48 - Artigo: "Memória online eficiente para grandes modelos de linguagem"](https://github.com/rodfloripa/Projeto48)
 
+[P49 - Mini Transformer](https://github.com/rodfloripa/Projeto49)
+
 Pequenos Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
