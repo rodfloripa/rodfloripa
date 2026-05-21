@@ -131,8 +131,8 @@ Pequenos Projetos
 
 [Criando boas variáveis para prever series temporais](https://github.com/rodfloripa/Criando_variaveis_em_series_temp)
 
-[Atenção em Transformers]
-(https://github.com/rodfloripa/Atencao_em_Transformers)
+[Atenção em Transformers](https://github.com/rodfloripa/Atencao_em_Transformers)
+
 
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
