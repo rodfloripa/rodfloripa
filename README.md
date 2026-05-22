@@ -105,7 +105,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P49 - Mini Transformer](https://github.com/rodfloripa/Projeto49)
 
-Pequenos Projetos
+Outros Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
 
