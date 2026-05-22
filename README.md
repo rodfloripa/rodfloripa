@@ -105,6 +105,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P49 - Mini Transformer](https://github.com/rodfloripa/Projeto49)
 
+[P50 - Flash Attention](https://github.com/rodfloripa/Projeto50)
+
 Outros Projetos
 
 [DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
