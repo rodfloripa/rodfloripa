@@ -135,7 +135,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P64 - Aprendizado de Grafos Contrastivos](https://github.com/rodfloripa/Projeto64)
 
-[P65 - Previsão con múltiplos clientes e produtos](https://github.com/rodfloripa/Projeto65)
+[P65 - Previsão com múltiplos clientes e produtos](https://github.com/rodfloripa/Projeto65)
 
 
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
