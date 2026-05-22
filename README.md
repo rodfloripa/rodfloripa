@@ -107,33 +107,31 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P50 - Flash Attention](https://github.com/rodfloripa/Projeto50)
 
-Outros Projetos
+[P51 - DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
 
-[DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
+[P52 - Significancia estatistica com Bootstrap](https://github.com/rodfloripa/Significancia_estatistica_com_bootstrap)
 
-[Significancia estatistica com Bootstrap](https://github.com/rodfloripa/Significancia_estatistica_com_bootstrap)
+[P53 - Otimizacao de Cobertura Celular com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Cobertura_Celular)
 
-[Otimizacao de Cobertura Celular com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Cobertura_Celular)
+[P54 - Detecção de anomalias em dados de sensores](https://github.com/rodfloripa/Deteccao_de_Anomalias)
 
-[Detecção de anomalias em dados de sensores](https://github.com/rodfloripa/Deteccao_de_Anomalias)
+[P55 - Otimizacao de Antenas com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antenas)
 
-[Otimizacao de Antenas com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antenas)
+[P56 - Despacho Hidrotermico com CVXPY](https://github.com/rodfloripa/Despacho_Economico)
 
-[Despacho Hidrotermico com CVXPY](https://github.com/rodfloripa/Despacho_Economico)
+[P57 - Otimização de Rádiotelescópio com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antena_Parabolica)
 
-[Otimização de Rádiotelescópio com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Antena_Parabolica)
+[P58 - UMAP do jeito certo](https://github.com/rodfloripa/UMAP)
 
-[UMAP do jeito certo](https://github.com/rodfloripa/UMAP)
+[P59 - Criando Carteiras de Investimento](https://github.com/rodfloripa/Carteiras_de_Acoes)
 
-[Criando Carteiras de Investimento](https://github.com/rodfloripa/Carteiras_de_Acoes)
+[P60 - Análise de Sobrevivência: Churn de Clientes](https://github.com/rodfloripa/Analise_de_Sobrevivencia)
 
-[Análise de Sobrevivência: Churn de Clientes](https://github.com/rodfloripa/Analise_de_Sobrevivencia)
+[P61 - Domo de Ferro com CVXPY](https://github.com/rodfloripa/Domo_de_Ferro)
 
-[Domo de Ferro com CVXPY](https://github.com/rodfloripa/Domo_de_Ferro)
+[P62 - Criando boas variáveis para prever series temporais](https://github.com/rodfloripa/Criando_variaveis_em_series_temp)
 
-[Criando boas variáveis para prever series temporais](https://github.com/rodfloripa/Criando_variaveis_em_series_temp)
-
-[Atenção em Transformers](https://github.com/rodfloripa/Atencao_em_Transformers)
+[P63 - Atenção em Transformers](https://github.com/rodfloripa/Atencao_em_Transformers)
 
 
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
