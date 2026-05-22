@@ -133,7 +133,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P63 - Atenção em Transformers](https://github.com/rodfloripa/Atencao_em_Transformers)
 
-[P64 - ML em Grafos](https://github.com/rodfloripa/Projeto64)
+[P64 - Aprendizado de Grafos Contrastivos](https://github.com/rodfloripa/Projeto64)
 
 
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
