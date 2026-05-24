@@ -137,6 +137,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P65 - Previsão com múltiplos clientes e produtos](https://github.com/rodfloripa/Projeto65)
 
+[P66 - Simulação de conflito social dinâmico com redes de grafo com atenção](https://github.com/rodfloripa/Projeto66)
+
 
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
