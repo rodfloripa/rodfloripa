@@ -142,6 +142,9 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P67 - Mini Transformer com Mixture of Experts (MoE)](https://github.com/rodfloripa/Projeto67)
 
+
+[P68 - Descoberta de Papéis Estruturais em Grafos](https://github.com/rodfloripa/Projeto68)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
