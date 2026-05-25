@@ -140,7 +140,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 [P66 - Simulação de conflito social dinâmico com redes de grafo com atenção](https://github.com/rodfloripa/Projeto66)
 
 
-[Mini Transformer com Mixture of Experts (MoE)](https://github.com/rodfloripa/Projeto67)
+[P67 - Mini Transformer com Mixture of Experts (MoE)](https://github.com/rodfloripa/Projeto67)
 
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
