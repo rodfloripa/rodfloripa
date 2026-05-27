@@ -145,6 +145,9 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P68 - Descoberta de Papéis Estruturais em Grafos](https://github.com/rodfloripa/Projeto68)
 
+
+[P68 - Inferência Otimizada de LLM com Offloading Automático CPU ↔ GPU](https://github.com/rodfloripa/Projeto69)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
