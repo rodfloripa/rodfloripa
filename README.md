@@ -148,6 +148,9 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P69 - Inferência Otimizada de LLM com Offloading Automático CPU ↔ GPU](https://github.com/rodfloripa/Projeto69)
 
+
+[P70 - Medidor de Escalonamento de Memória para LLMs](https://github.com/rodfloripa/Projeto70)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
