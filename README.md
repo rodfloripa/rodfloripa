@@ -151,6 +151,9 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P70 - Medidor de Escalonamento de Memória para LLMs](https://github.com/rodfloripa/Projeto70)
 
+
+[P71 - Inferência causal em grafos por remoção de nós](https://github.com/rodfloripa/Projeto71)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
