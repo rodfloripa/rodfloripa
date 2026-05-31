@@ -154,6 +154,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P71 - Inferência causal em grafos por remoção de nós](https://github.com/rodfloripa/Projeto71)
 
+[P72 - Learn to Rank](https://github.com/rodfloripa/Projeto72)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
