@@ -156,6 +156,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P72 - Learn to Rank](https://github.com/rodfloripa/Projeto72)
 
+[P73 - Rust na inferência de LLM](https://github.com/rodfloripa/Projeto73)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
