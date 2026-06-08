@@ -158,6 +158,9 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P73 - Rust na inferência de LLM](https://github.com/rodfloripa/Projeto73)
 
+
+[P74 - Detectando O(n2)](https://github.com/rodfloripa/Projeto74)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
