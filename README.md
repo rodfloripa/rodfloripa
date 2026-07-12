@@ -161,6 +161,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P74 - Código eficiente](https://github.com/rodfloripa/Projeto74)
 
+[P75 - Otimização de campanhas com modelo bayesiano hierárquico](https://github.com/rodfloripa/Projeto75)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
