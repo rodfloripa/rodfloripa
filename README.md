@@ -163,6 +163,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P75 - Otimização de campanhas com modelo bayesiano hierárquico](https://github.com/rodfloripa/Projeto75)
 
+[P76 - Medindo o Lift de Campanhas de Marketing com Causal Impact (BSTS)](https://github.com/rodfloripa/Projeto76)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
