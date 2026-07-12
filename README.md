@@ -165,6 +165,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P76 - Medindo o Lift de Campanhas de Marketing com Causal Impact (BSTS)](https://github.com/rodfloripa/Projeto76)
 
+[P77 - Otimização de exploração de petróleo](https://github.com/rodfloripa/Projeto77)
+
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
 
