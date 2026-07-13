@@ -169,7 +169,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P78 - Explicabilidade de Series Temporais com Espaço de Estados](https://github.com/rodfloripa/Projeto78)
 
-Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
+Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
 
