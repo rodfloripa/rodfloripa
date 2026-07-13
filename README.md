@@ -163,7 +163,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P75 - Otimização de Campanhas com Modelo Bayesiano Hierárquico](https://github.com/rodfloripa/Projeto75)
 
-[P76 - Medindo o Lift de Campanhas de Marketing com Causal Impact (BSTS)](https://github.com/rodfloripa/Projeto76)
+[P76 - Medindo o Impacto de Campanhas de Marketing com Causal Impact (BSTS)](https://github.com/rodfloripa/Projeto76)
 
 [P77 - Otimização de Exploração de Petróleo](https://github.com/rodfloripa/Projeto77)
 
