@@ -167,7 +167,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P77 - Otimização de Exploração de Petróleo](https://github.com/rodfloripa/Projeto77)
 
-[P78 - Explicabilidade de Series Temporais com Espaço de Estados](https://github.com/rodfloripa/Projeto77)
+[P78 - Explicabilidade de Series Temporais com Espaço de Estados](https://github.com/rodfloripa/Projeto78)
 
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
