@@ -53,9 +53,9 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P24- Detecção de Fraude(CRISP)](https://github.com/rodfloripa/Projeto24)
 
-[P25- Aprenda sobre doenças com RodMed](https://github.com/rodfloripa/Projeto25)
+[P25- Aprenda sobre Doenças com RodMed](https://github.com/rodfloripa/Projeto25)
 
-[P26- Um clone do Databricks Genie](https://github.com/rodfloripa/Projeto26)
+[P26- Um Clone do Databricks Genie](https://github.com/rodfloripa/Projeto26)
 
 [P27- RAG Hibrida](https://github.com/rodfloripa/Projeto27)
 
@@ -67,7 +67,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P31- Avaliando RAG com Ragas](https://github.com/rodfloripa/Projeto31)
 
-[P32- LLM em monolito vs LLM em microservico](https://github.com/rodfloripa/Projeto32)
+[P32- LLM em Monolito vs LLM em Microservico](https://github.com/rodfloripa/Projeto32)
 
 [P33- Transformer com Engram](https://github.com/rodfloripa/Transformer_com_ngram)
 
@@ -81,13 +81,13 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 [P37- Artigo: "Previsão de vibração com transformadores para o avanço da segurança ferroviária e da manutenção 4.0
 "](https://github.com/rodfloripa/Projeto37)
 
-[P38- Prevendo a venda de 1700 produtos](https://github.com/rodfloripa/Projeto38)
+[P38- Prevendo a Venda de 1700 Produtos](https://github.com/rodfloripa/Projeto38)
 
-[P39 - Previsão de risco para bancos](https://github.com/rodfloripa/Projeto39)
+[P39 - Previsão de Risco para Bancos](https://github.com/rodfloripa/Projeto39)
 
-[P40 - Desafio Kaggle de receitas](https://github.com/rodfloripa/Projeto40)
+[P40 - Desafio Kaggle de Receitas](https://github.com/rodfloripa/Projeto40)
 
-[P41 - Previsão em tempo real com Kafka](https://github.com/rodfloripa/Projeto41)
+[P41 - Previsão em Tempo Real com Kafka](https://github.com/rodfloripa/Projeto41)
 
 [P42 - Artigo: "Um modelo de aprendizado profundo aprimorado para agrupamento baseado em incorporações de palavras para grandes conjuntos de dados de texto"](https://github.com/rodfloripa/Projeto42)
 
@@ -152,20 +152,22 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 [P70 - Medidor de Escalonamento de Memória para LLMs](https://github.com/rodfloripa/Projeto70)
 
 
-[P71 - Inferência causal em grafos por remoção de nós](https://github.com/rodfloripa/Projeto71)
+[P71 - Inferência Causal em Grafos por Remoção de Nós](https://github.com/rodfloripa/Projeto71)
 
 [P72 - Learn to Rank](https://github.com/rodfloripa/Projeto72)
 
-[P73 - Rust na inferência de LLM](https://github.com/rodfloripa/Projeto73)
+[P73 - Rust na Inferência de LLM](https://github.com/rodfloripa/Projeto73)
 
 
-[P74 - Código eficiente](https://github.com/rodfloripa/Projeto74)
+[P74 - Código Eficiente](https://github.com/rodfloripa/Projeto74)
 
-[P75 - Otimização de campanhas com modelo bayesiano hierárquico](https://github.com/rodfloripa/Projeto75)
+[P75 - Otimização de Campanhas com Modelo Bayesiano Hierárquico](https://github.com/rodfloripa/Projeto75)
 
 [P76 - Medindo o Lift de Campanhas de Marketing com Causal Impact (BSTS)](https://github.com/rodfloripa/Projeto76)
 
-[P77 - Otimização de exploração de petróleo](https://github.com/rodfloripa/Projeto77)
+[P77 - Otimização de Exploração de Petróleo](https://github.com/rodfloripa/Projeto77)
+
+[P78 - Explicabilidade de Series Temporais com Espaço de Estados](https://github.com/rodfloripa/Projeto77)
 
 Não acabou ainda! Veja mais Repositórios em 'Pinned' abaixo
 
