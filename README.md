@@ -169,6 +169,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P78 - Explicabilidade de Series Temporais com Espaço de Estados](https://github.com/rodfloripa/Projeto78)
 
+[P79 - Projeto 54 agora com DSP](https://github.com/rodfloripa/Projeto79)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
