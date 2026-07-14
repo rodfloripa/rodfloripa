@@ -173,6 +173,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P80 - PGM + Factor Graphs: Otimização de Lances em Sistemas como Google Ads](https://github.com/rodfloripa/Projeto80)
 
+[P81 - Resfriado,Gripe ou Covid? PGM vai dizer](https://github.com/rodfloripa/Projeto81)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
