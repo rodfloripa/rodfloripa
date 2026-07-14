@@ -35,7 +35,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P15- Previsão de palavras usando Regra de Bayes](https://github.com/rodfloripa/Projeto15)
 
-[P16- Otimização com MCMC: menor caminho](https://github.com/rodfloripa/Projeto16)
+[P16- Otimização Geométrica de Trajetórias utilizando Monte Carlo e Critério de Metropolis](https://github.com/rodfloripa/Projeto16)
 
 [P17- Otimização com MCMC: temperatura e energia](https://github.com/rodfloripa/Projeto17)
 
