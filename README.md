@@ -171,6 +171,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P79 - Projeto 54 agora com DSP](https://github.com/rodfloripa/Projeto79)
 
+[P80 - PGM + Factor Graphs: Otimização de Lances em Sistemas como Google Ads](https://github.com/rodfloripa/Projeto80)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
