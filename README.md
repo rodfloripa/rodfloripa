@@ -37,7 +37,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P16- Otimização Geométrica de Trajetórias utilizando Monte Carlo e Critério de Metropolis](https://github.com/rodfloripa/Projeto16)
 
-[P17- Otimização com MCMC: temperatura e energia](https://github.com/rodfloripa/Projeto17)
+[P17- Otimização Inteligente do Controle de Temperatura com Markov Chain Monte Carlo (MCMC)](https://github.com/rodfloripa/Projeto17)
 
 [P18curso- Conjunto de dados extremamente desbalanceado](https://github.com/rodfloripa/Projeto18)
 
