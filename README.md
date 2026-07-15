@@ -177,6 +177,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P82 - Projeto Termico do Apple M3 com Bandits+Annealing](https://github.com/rodfloripa/Projeto82)
 
+[P83 - Projeto de Linhas de Transmissão com Bandits+Annealing](https://github.com/rodfloripa/Projeto83)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
