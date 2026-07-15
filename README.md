@@ -175,7 +175,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P81 - Resfriado,Gripe ou Covid? PGM vai dizer](https://github.com/rodfloripa/Projeto81)
 
-[P82 - Projeto Termico do Apple M3](https://github.com/rodfloripa/Projeto82)
+[P82 - Projeto Termico do Apple M3 com Bandits+Annealing](https://github.com/rodfloripa/Projeto82)
 
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
