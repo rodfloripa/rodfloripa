@@ -179,6 +179,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P83 - Projeto de Linhas de Transmissão com Annealing](https://github.com/rodfloripa/Projeto83)
 
+[P84 - Gerando Cenários de Vendas com Rede Bayesiana](https://github.com/rodfloripa/Projeto84)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
