@@ -183,7 +183,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P85 - LinUCB: Otimização Contextual de Banners](https://github.com/rodfloripa/Projeto85)
 
-[P86 - Modelando redes planta-polinizador com Aprendizado de Grafos](https://github.com/rodfloripa/Projeto86)
+[P86 - Modelando Redes Planta-Polinizador com Aprendizado de Grafos](https://github.com/rodfloripa/Projeto86)
 
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
