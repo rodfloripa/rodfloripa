@@ -185,6 +185,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P86 - Modelando Redes Planta-Polinizador com Aprendizado de Grafos](https://github.com/rodfloripa/Projeto86)
 
+[P87 -Ciclo de Carbono Florestal e Redes Neurais com Física](https://github.com/rodfloripa/Projeto87)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
