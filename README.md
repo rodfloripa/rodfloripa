@@ -14,9 +14,7 @@
 
 
 
-PROJETOS - Existem dois tipos: 
-
-projetos de cursos e projetos que eu criei
+Seja bem vindo ao meu Laboratório de Ciência de Dados,um espaço para aprendizado e experimentação.
 
 [Macroeconometria com R](https://github.com/rodfloripa/Macroeconometria_com_R)
 
