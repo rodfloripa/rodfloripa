@@ -181,6 +181,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P84 - Gerando Cenários de Vendas com Rede Bayesiana](https://github.com/rodfloripa/Projeto84)
 
+[P85 - LinUCB: Otimização Contextual de Banners](https://github.com/rodfloripa/Projeto85)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
