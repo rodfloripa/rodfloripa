@@ -1,4 +1,4 @@
-![Simple Technology LinkedIn Banner](https://user-images.githubusercontent.com/29576125/111043348-d4445500-8420-11eb-97e1-6f2672b9b99b.png)
+![](https://github.com/rodfloripa/rodfloripa/blob/main/fig2.jpg)
  🏾 Sobre mim : 
 -  De Florianópolis, Santa Catarina, Brasil.
 - Engenheiro Eletricista.
