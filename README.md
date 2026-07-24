@@ -14,7 +14,7 @@
 
 
 
-Seja bem vindo ao meu Laboratório de Ciência de Dados,um espaço para aprendizado e experimentação.
+Seja bem vindo ao meu Laboratório de Ciência de Dados,um espaço para aprendizado,experimentação e loucuras.
 
 [Macroeconometria com R](https://github.com/rodfloripa/Macroeconometria_com_R)
 
