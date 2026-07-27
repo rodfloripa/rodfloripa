@@ -185,6 +185,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P87 -Ciclo de Carbono Florestal e Redes Neurais com Física](https://github.com/rodfloripa/Projeto87)
 
+[P88 -Monitorando 40 Modelos no AWS Sagemaker](https://github.com/rodfloripa/Projeto88)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
