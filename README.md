@@ -187,6 +187,9 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P88 -Monitorando 40 Modelos no AWS Sagemaker](https://github.com/rodfloripa/Projeto88)
 
+[P89 - Otimização de Bombeamento de Água](https://github.com/rodfloripa/Projeto89)
+
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
