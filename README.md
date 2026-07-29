@@ -7,15 +7,6 @@ Seja bem vindo ao meu Laboratório de Ciência de Dados,um espaço para aprendiz
 - Engenheiro Eletricista.
 
 
-
-
-🤹🏾 Habilidades:![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![PySsPark](https://img.shields.io/badge/-PySpark-grey?&logo=Spark&logoColor=FFFFFF)   ![Visualização de Dados](https://img.shields.io/badge/-Visualização%20de%20Dados-green) ![Airflow](https://img.shields.io/badge/-Airflow-grey&logo=Airflow&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/-AWS-black?&logo=AWS&logoColor=FFFFFF)![Docker](https://img.shields.io/badge/-Docker-blue?&logo=Docker&logoColor=FFFFFF)![Estatistica](https://img.shields.io/badge/-Estat%C3%ADstica-red)  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue) ![Negocios](https://img.shields.io/badge/-Negócios-yellow)
- 
-  Bancos de Dados:![Hive](https://img.shields.io/badge/-Hive-yellow) ![Impala](https://img.shields.io/badge/-Impala-lightgrey) 
-
- Ferramentas:![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyPI](https://img.shields.io/badge/-PyPI-3775A9?&logo=PyPI&logoColor=FFFFFF)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) ![Jupyter](https://img.shields.io/badge/-Jupyter-FCC624?&logo=Jupyter&logoColor)
-
-
 [Macroeconometria com R](https://github.com/rodfloripa/Macroeconometria_com_R)
 
 [TCC- Especializaçao em Finanças](https://github.com/rodfloripa/Financing_wind_power_projects)
