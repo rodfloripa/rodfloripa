@@ -180,6 +180,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P89 - Otimização de Bombeamento de Água](https://github.com/rodfloripa/Projeto89)
 
+[P90 - Treinando LLM com Lora](https://github.com/rodfloripa/Projeto90)
 
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
