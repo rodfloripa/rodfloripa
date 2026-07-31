@@ -184,6 +184,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P91 - Embeddings em Sistemas de Recomendação](https://github.com/rodfloripa/Embedding_em_Sistema_de_Recomendacao)
 
+[P92 - RAG com Metadados](https://github.com/rodfloripa/RAG_metadados_reranqueamento)
+
 
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
