@@ -182,6 +182,9 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P90 - Treinando LLM com Lora](https://github.com/rodfloripa/Projeto90)
 
+[P91 - Embeddings em Sistemas de Recomendação](https://github.com/rodfloripa/Embedding_em_Sistema_de_Recomendacao)
+
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
