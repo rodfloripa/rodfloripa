@@ -98,7 +98,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P51 - DuckDB Explicado](https://github.com/rodfloripa/DuckDB-Explicado)
 
-[P52 - Significancia estatistica com Bootstrap](https://github.com/rodfloripa/Significancia_estatistica_com_bootstrap)
+[P52 - Teste AB : Significancia estatistica com Bootstrap](https://github.com/rodfloripa/Significancia_estatistica_com_bootstrap)
 
 [P53 - Otimizacao de Cobertura Celular com CVXPY](https://github.com/rodfloripa/Otimizacao_de_Cobertura_Celular)
 
