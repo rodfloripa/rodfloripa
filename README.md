@@ -186,6 +186,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P92 - RAG com Metadados](https://github.com/rodfloripa/RAG_metadados_reranqueamento)
 
+[P93 - Teste AB com Parada Otimizada](https://github.com/rodfloripa/Projeto91)
+
 
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
