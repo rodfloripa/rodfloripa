@@ -188,7 +188,9 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P93 - Teste AB com Parada Otimizada](https://github.com/rodfloripa/Projeto91)
 
-[P94 - Pricing API - Python com segurança de Java](https://github.com/rodfloripa/Projeto94)
+[P94 - Pri
+
+API de Preço  - Python com segurança de Java](https://github.com/rodfloripa/Projeto94)
 
 
 
