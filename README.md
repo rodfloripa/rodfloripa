@@ -190,6 +190,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P94 - API de Preço  - Python com segurança de Java](https://github.com/rodfloripa/Projeto94)
 
+[P95 - PINN para Previsão de Demanda e Controle de Estoque no Varejo](https://github.com/rodfloripa/Projeto95)
+
 
 
 Não acabou ainda! Veja mais 6 Repositórios abaixo
