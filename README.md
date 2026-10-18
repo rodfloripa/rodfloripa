@@ -192,7 +192,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P95 - PINN para Previsão de Demanda e Controle de Estoque no Varejo](https://github.com/rodfloripa/Projeto95)
 
-[P109 - Treinando Modelos com Ray](https://github.com/rodfloripa/Projeto109)
+[P96 - Treinando Modelos com Ray](https://github.com/rodfloripa/Projeto109)
 
 
 
