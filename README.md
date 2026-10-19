@@ -194,7 +194,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P96 - Treinando Modelos com Ray](https://github.com/rodfloripa/Projeto109)
 
-[P97 - Precificaçào Dinamica com RLLIB](https://github.com/rodfloripa/Projeto97)
+[P97 - Precificaçào Dinamica com RLlib](https://github.com/rodfloripa/Projeto97)
 
 
 
