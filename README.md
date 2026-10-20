@@ -198,6 +198,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P98 - Perplexidade! Esta métrica não é boa](https://github.com/rodfloripa/Projeto98)
 
+[P99 - CUPED explicado](https://github.com/rodfloripa/Projeto99)
+
 
 
 Não acabou ainda! Veja mais 6 Repositórios abaixo
