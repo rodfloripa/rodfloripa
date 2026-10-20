@@ -196,6 +196,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P97 - Precificaçào Dinamica com RLlib](https://github.com/rodfloripa/Projeto97)
 
+[P98 - Perplexidade! Esta métrica não é boa](https://github.com/rodfloripa/Projeto98)
+
 
 
 Não acabou ainda! Veja mais 6 Repositórios abaixo
