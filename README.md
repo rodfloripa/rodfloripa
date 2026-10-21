@@ -202,6 +202,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P100 - Titanic com SOLID na AWS](https://github.com/rodfloripa/Projeto100)
 
+[P101 - Sistema de Equivalência Curricular Multicamada com IA Explicável e Memória de Precedentes](https://github.com/rodfloripa/Projeto101)
+
 
 
 Não acabou ainda! Veja mais 6 Repositórios abaixo
