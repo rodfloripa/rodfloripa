@@ -204,7 +204,7 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P101 - Sistema de Equivalência Curricular Multicamada com IA Explicável e Memória de Precedentes](https://github.com/rodfloripa/Projeto101)
 
-[P102 - MLOPS do jeito certo](https://github.com/rodfloripa/Projeto102)
+[P102 - MLOPS com Pydantic](https://github.com/rodfloripa/Projeto102)
 
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
