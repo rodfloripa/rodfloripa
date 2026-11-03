@@ -208,6 +208,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P103 - Projeto 90 na AWS](https://github.com/rodfloripa/Projeto103)
 
+[P104 - NLI para melhorar RAG](https://github.com/rodfloripa/Projeto104)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
