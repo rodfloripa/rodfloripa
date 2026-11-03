@@ -206,6 +206,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P102 - MLOPS com Pydantic](https://github.com/rodfloripa/Projeto102)
 
+[P103 - Projeto 90 na AWS](https://github.com/rodfloripa/Projeto103)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
