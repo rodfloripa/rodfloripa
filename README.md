@@ -210,6 +210,22 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P104 - NLI para melhorar RAG](https://github.com/rodfloripa/Projeto104)
 
+[P105 - Cópula Explicada](https://github.com/rodfloripa/Projeto105)
+
+[P106 - Ontologia Explicada](https://github.com/rodfloripa/Projeto106)
+
+[P107 - Agente com Confiabilidade](https://github.com/rodfloripa/Projeto107)
+
+[P108 - SUTVA Explicado](https://github.com/rodfloripa/Projeto108)
+
+[P109 - Clustering spectral](https://github.com/rodfloripa/Projeto109)
+
+[P110 - Validando .env](https://github.com/rodfloripa/Projeto110)
+
+[P111 - Assistente com Z3](https://github.com/rodfloripa/Projeto111)
+
+[P112 - Classificação de crédito com Transformers](https://github.com/rodfloripa/Projeto112)
+
 Não acabou ainda! Veja mais 6 Repositórios abaixo
 
 
