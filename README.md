@@ -210,6 +210,8 @@ implantação no AWS](https://github.com/rodfloripa/Projeto12)
 
 [P104 - NLI para melhorar RAG](https://github.com/rodfloripa/Projeto104)
 
+Em breve:
+
 [P105 - Cópula Explicada](https://github.com/rodfloripa/Projeto105)
 
 [P106 - Ontologia Explicada](https://github.com/rodfloripa/Projeto106)
