@@ -224,7 +224,7 @@ Em breve:
 
 [P110 - Validando .env](https://github.com/rodfloripa/Projeto110)
 
-[P111 - Assistente com Z3](https://github.com/rodfloripa/Projeto111)
+[P111 - Regras de negócio com Z3](https://github.com/rodfloripa/Projeto111)
 
 [P112 - Classificação de crédito com Transformers](https://github.com/rodfloripa/Projeto112)
 
